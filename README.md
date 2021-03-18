@@ -1,5 +1,5 @@
 This project represents a library management application. The application allows to perform various operations commonly used in a normal library. 
-Data containing books related information and library members is stored in txt files, alongside with book loan transactions.
+Books related information and library members data is stored in txt files, alongside with book loan transactions.
 
 Library Management System allows to:
 1. Search for books.
